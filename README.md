@@ -1,4 +1,6 @@
 <h1> Instagram Automation Tool</h1>
+This is Task 1 of Python Projects in 20°C Monsoon Internship Program provided by The Intern Academy.
+
 
 <br>There are many social platforms where one can share their posts and view others posts. A user used to perform some common activities like liking, sharing and commenting on a post or following some other users. But sometimes, it becomes boring and repetitive so we made a project on python through which you can automate these processes.<br>
 
