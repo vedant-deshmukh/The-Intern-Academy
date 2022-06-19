@@ -44,4 +44,4 @@ This is the login page of the tool. This is the homepage. Here, the user enters 
 
 ### 2. Functions Page:<br>
 This page shows all the functionalities. User can click on dersired one and then enter the asked details and the action is completed automatically.<br><br>
-<img src="https://github.com/vedant-deshmukh/The-Intern-Academy/blob/67ff59d24757ff53a9286553c55414f95fe0ef86/Instagram%20Automation%20Tool/readme_imgs/Functions.png>
+<img src="https://github.com/vedant-deshmukh/The-Intern-Academy/blob/67ff59d24757ff53a9286553c55414f95fe0ef86/Instagram%20Automation%20Tool/readme_imgs/Functions.png">
